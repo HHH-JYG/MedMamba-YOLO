@@ -1,0 +1,11 @@
+path: BCCD
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: RBC
+  1: WBC 
+  2: Platelet
+
+  

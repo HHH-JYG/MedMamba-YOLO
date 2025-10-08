@@ -1,0 +1,9 @@
+path: Br35H
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: Brain Tumor
+
+  
